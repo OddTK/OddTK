@@ -1,4 +1,4 @@
-### Hi there, I'm Jesus (hey-soos)! 👋
+# Hi there, I'm Jesus (hey-soos)! 👋
 
 - 😄 Pronouns: he/him/his
 - 🌱 Currently working on becoming an amazing developer!
