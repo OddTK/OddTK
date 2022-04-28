@@ -1,5 +1,7 @@
 # Hi there, I'm Jesus (hey-soos)! 👋
 
+## - 🔭 I’m currently working on learning C#
+
 - 😄 Pronouns: he/him/his
 - 🌱 Currently working on becoming an amazing developer!
 - 👾 I love coffee, coding, gaming, and life
