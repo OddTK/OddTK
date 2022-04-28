@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Jesus (hey-soos)! 👋
+
+- 😄 Pronouns: he/him/his
+- 🌱 Currently working on becoming an amazing developer!
+- 👾 I love coffee, coding, gaming, and life
+- 📍 Denver, Colorado
+
+## Connect with me:
+- 📧 Email: jesusbalandra@outlook.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/jesus-balandra/
 
 <!--
 **OddTK/OddTK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
