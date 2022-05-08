@@ -9,6 +9,10 @@
 - 📧 Email: jesusbalandra@outlook.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/jesus-balandra/
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OddTK)](https://git.io/streak-stats)
+
+
 <!--
 **OddTK/OddTK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
