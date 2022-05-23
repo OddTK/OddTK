@@ -1,7 +1,7 @@
 # Hi there, I'm Jesus (hey-soos)! 👋
 
 - 😄 Pronouns: he/him/his
-- 🌱 Currently learning C#
+- 🌱 Currently learning C# / Unity ⚡
 - 👾 I love coffee, coding, gaming, and life
 - 📍 Denver, Colorado
 
