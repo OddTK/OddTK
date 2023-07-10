@@ -1,6 +1,6 @@
 # Hi there, I'm Jesus (hey-soos)! 👋
 
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/his 
 - 👾 I love coffee, coding, gaming, and life
 - 📍 Denver, Colorado
 
