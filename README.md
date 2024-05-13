@@ -1,4 +1,4 @@
-# Hi there, I'm Jesus (hey-soos)! 👋
+# Hi there, I'm Joseph! 👋
 
 - 😄 Pronouns: he/him/his 
 - 👾 I love coffee, coding, gaming, and life
